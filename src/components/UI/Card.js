@@ -12,5 +12,5 @@ function Card(props) {
     </div>
   );
 }
-//<CardHeader caption={props.caption}/>
+
 export default Card;
