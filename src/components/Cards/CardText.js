@@ -1,3 +1,4 @@
+import React from "react";
 import "./CardText.css";
 
 function CardText(props) {

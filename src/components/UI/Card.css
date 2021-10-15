@@ -2,5 +2,15 @@
   padding: 0.5rem;
   margin: 1%;
   border: 4px #149209 solid;
+  width: 20%;
+  display: inline-block;
+  border-radius: 25px;
+  background-color: rgb(190, 194, 173);
+}
+
+.card_selected {
+  padding: 0.5rem;
+  margin: 1%;
+  border: 14px #149209 solid;
   width: 10%;
 }
