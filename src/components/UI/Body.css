@@ -1,9 +1,11 @@
-.header {
+.body {
   position: relative;
+  min-height: 100%;
   margin: 20px;
   border: 5px #9924b1 solid;
   text-align: center;
   color: #7227b8;
   background-color: rgb(216, 192, 238);
   border-radius: 25px;
+  height: 80vh;
 }

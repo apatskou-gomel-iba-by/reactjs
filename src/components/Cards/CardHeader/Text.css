@@ -1,0 +1,8 @@
+.text {
+  float: left;
+}
+
+.textBold {
+  float: left;
+  font-weight: bold;
+}
